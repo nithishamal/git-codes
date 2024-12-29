@@ -1,3 +1,4 @@
 # git-codes
 
-Name: Nithish Amalraj
+Name: Nithish Amalrajamal98@gmail.com
+Email: nithish
